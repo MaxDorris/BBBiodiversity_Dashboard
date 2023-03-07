@@ -115,7 +115,7 @@ function buildCharts(sample) {
     var bubbleLayout = {
       title: 'Bacteria Cultures Per Sample',
       showlegend: false,
-      height: 600,
+      height: 1000,
       width: 1000,
       xaxis: {title: 'OTU ID'},
       hovermode: 'closest'
